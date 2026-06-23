@@ -1,0 +1,9 @@
+Create a safe, personal angel-building prompt for Jurre Jan de Jong (born 1995-11-24).
+
+Requirements:
+- Frame it as a private inner-support framework for Jurre's consciousness bubble only.
+- Emphasize that the angel is symbolic, respects others, and stays within Jurre's personal timeline dimension.
+- Include a short prompt for generating one guardian angel name, qualities, and purpose.
+- Mention a second prompt for creating a short healing invocation phrase.
+- Keep tone grounded, compassionate, and empowering.
+- Output plain text only, suitable for copy-paste into an AI tool.
